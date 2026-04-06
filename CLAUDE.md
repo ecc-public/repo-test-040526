@@ -29,5 +29,5 @@ Open the URL in any browser to view the page.
 
 ## Notes
 
-- Files are served from `C:/Users/ecc_p/hello_world_agent/`
+- Files are served from `C:/Users/ecc_p/Dev/hello_world_agent/`
 - If port 8765 is already in use, the agent will kill the existing process first
